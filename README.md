@@ -1,2 +1,3 @@
-# learn-git
-we're learning git together
+# Learning Git and GitHub together
+
+We're learning git together
